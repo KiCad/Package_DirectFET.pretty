@@ -8,8 +8,8 @@
   (fp_text value IR-directFET_MT-Outline_Numbers_RevA_30Jun2011 (at 0 4.826) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
-  (fp_line (start 2.60096 2.60096) (end -2.60096 2.60096) (layer F.SilkS) (width 0.381))
-  (fp_line (start -2.60096 -2.60096) (end 2.60096 -2.60096) (layer F.SilkS) (width 0.381))
+  (fp_line (start 2.60096 2.60096) (end -2.60096 2.60096) (layer F.SilkS) (width 0.15))
+  (fp_line (start -2.60096 -2.60096) (end 2.60096 -2.60096) (layer F.SilkS) (width 0.15))
   (pad 5 smd rect (at -1.4097 0) (size 0.8509 0.94996) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.69088 -0.83058) (size 1.84912 1.04902) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0.69088 0.83058) (size 1.84912 1.04902) (layers F.Cu F.Paste F.Mask))
