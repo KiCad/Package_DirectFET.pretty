@@ -1,11 +1,11 @@
-(module IR-directFET_ST-Outline_Numbers (layer F.Cu)
+(module IR-directFET_ST-Outline (layer F.Cu)
   (at 0 0)
   (descr "IR directFRT, ST-Outline, Pads munbered,")
   (tags "IR directFRT, ST-Outline, Pads numbered,")
   (fp_text reference REF** (at -0.01016 -4.62026) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value IR-directFET_ST-Outline_Numbers (at -0.01016 4.0005) (layer F.Fab)
+  (fp_text value IR-directFET_ST-Outline (at -0.01016 4.0005) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.89992 1.89992) (end 1.89992 1.89992) (layer F.SilkS) (width 0.15))
@@ -19,7 +19,7 @@
   (pad 7 smd rect (at -2.30886 0.82042) (size 0.89916 1.24968) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 2.49936 -0.82042) (size 0.89916 1.24968) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.49936 0.82042) (size 0.89916 1.24968) (layers F.Cu F.Paste F.Mask))
-  (model IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_ST-Outline.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

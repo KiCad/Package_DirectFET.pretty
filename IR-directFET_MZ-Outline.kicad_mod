@@ -17,7 +17,7 @@
   (pad 7 smd rect (at -3.19786 1.1811) (size 0.89916 1.84912) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 3.2004 -1.1811) (size 0.89916 1.84912) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.2004 1.1811) (size 0.89916 1.84912) (layers F.Cu F.Paste F.Mask))
-  (model IR-DirectFETs.3dshapes/IR-directFET_MZ-Outline_Numnbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MZ-Outline_Numnbers.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
