@@ -1,10 +1,10 @@
-(module IR-directFET_MN-Outline (layer F.Cu)
-  (descr "IR-directFET, MN,")
-  (tags "IR-directFET, MN,")
+(module DirectFET_MN (layer F.Cu)
+  (descr "DirectFET, MN,")
+  (tags "DirectFET, MN,")
   (fp_text reference REF** (at 0.01016 -3.91922) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value IR-directFET_MN-Outline (at 0 4.572) (layer F.Fab)
+  (fp_text value DirectFET_MN (at 0 4.572) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.44094 -2.4511) (end 2.4511 -2.4511) (layer F.SilkS) (width 0.15))
@@ -20,7 +20,7 @@
   (pad 2 smd rect (at 3.18008 1.1811) (size 0.89916 1.84912) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.70104 -0.70104) (size 1.45034 0.94996) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0.70104 0.70104) (size 1.45034 0.89916) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MN-Outline.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/DirectFET_MN.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
