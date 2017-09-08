@@ -1,7 +1,6 @@
 (module DirectFET_MP (layer F.Cu) (tedit 59B31E73)
   (descr "DirectFET MP https://www.infineon.com/dgdl/irf6633pbf.pdf?fileId=5546d462533600a4015355e8dfe91a3b")
   (tags "DirectFET MP Mosfet Infenion")
-  (solder_mask_margin 0.2)
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
