@@ -1,6 +1,7 @@
 (module DirectFET_MN (layer F.Cu) (tedit 59B30CCB)
   (descr "DirectFET MN https://www.infineon.com/dgdl/irf6646pbf.pdf?fileId=5546d462533600a4015355ec5f071a55")
   (tags "DirectFET MN Mosfet Infenion")
+  (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
