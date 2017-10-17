@@ -1,5 +1,5 @@
 (module DirectFET_MX (layer F.Cu)
-  (descr "DirectFET MX https://www.infineon.com/dgdl/irf8302mpbf.pdf?f")
+  (descr "DirectFET MX https://www.infineon.com/dgdl/irf8302mpbf.pdf?fileId=5546d462533600a40153560d16e41d5b")
   (tags "DirectFET MX Infenion Mosfet")
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
